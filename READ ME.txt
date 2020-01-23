@@ -1,0 +1,8 @@
+Tugas Pengganti Final
+Dari kelompok 8 ganjil:
+- Muhammad Fajri Rasid H071191051
+- A. Muhammad Risqullah A H071191053
+- Andi Nur Salsabila Syamsu H071191015
+
+FILE CLASS BERADA DI FOLDER src -> main -> java -> com -> cick -> ConvertUnits.java
+enjoy :)

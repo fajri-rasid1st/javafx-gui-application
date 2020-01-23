@@ -1,0 +1,49 @@
+#big-yellow {
+    -fx-background-color: 
+        #ecebe9,
+        rgba(0,0,0,0.05),
+        linear-gradient(#5fe2cc, #45d4d4),
+        linear-gradient(#5fe2cc 0%, #b0f5f2 20%, #50ebd1 80%, #30eee4 100%),
+        linear-gradient(#5fe2cc, #5fe2cc);
+    -fx-background-insets: 0,7 7 6 7,7,8,9;
+    -fx-background-radius: 60;
+    -fx-padding: 15 30 15 30;
+    -fx-font-family: "Product Sans";
+    -fx-font-weight: bold;
+    -fx-font-size: 25;
+    -fx-text-fill: rgb(255, 255, 255);
+    -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.1) , 2, 0.0 , 0 , 1);
+}
+#big-yellow Text {
+    -fx-effect: dropshadow( one-pass-box , rgba(0, 0, 0, 0.5) , 0, 0.0 , 0 , 1);
+}
+#big-back {
+    -fx-background-color: 
+        #ecebe9,
+        rgba(0,0,0,0.05),
+        linear-gradient(#e25f65, #d44545),
+        linear-gradient(#e25f65 0%, #f5b0b0 20%, #eb5050 80%, #ee3030 100%),
+        linear-gradient(#e25f65, #e25f65);
+    -fx-background-insets: 0,7 7 6 7,7,8,9;
+    -fx-background-radius: 60;
+    -fx-padding: 15 30 15 30;
+    -fx-font-family: "Product Sans";
+    -fx-font-weight: bold;
+    -fx-font-size: 15;
+    -fx-text-fill: rgb(255, 255, 255);
+    -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.1) , 2, 0.0 , 0 , 1);
+}
+#big-back Text {
+    -fx-effect: dropshadow( one-pass-box , rgba(0, 0, 0, 0.5) , 0, 0.0 , 0 , 1);
+}
+#cBox {
+    -fx-font-size:17;
+    -fx-font-family: "Nexa bold";
+}
+#label {
+    -fx-font-size:17;
+    -fx-font-weight: bold;
+}
+#convert {
+    -fx-background-color: #2a6ccf;
+}

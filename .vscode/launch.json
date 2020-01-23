@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConvertUnits",
+            "request": "launch",
+            "mainClass": "com.cick/com.cick.ConvertUnits",
+            "projectName": "javafx-maven-setup"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - coba",
+            "request": "launch",
+            "mainClass": "com.cick/com.cick.coba",
+            "projectName": "javafx-maven-setup"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.cick/com.cick.App",
+            "projectName": "javafx-maven-setup"
+        }
+    ]
+}

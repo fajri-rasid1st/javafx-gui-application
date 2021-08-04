@@ -1,2 +1,2 @@
-# First Application
+# javafx-gui-application
 First application using JavaFX

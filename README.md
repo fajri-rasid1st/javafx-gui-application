@@ -1,2 +1,2 @@
-# FirstApplication
-My First Application with JavaFX maven
+# First Application
+First application using JavaFX
